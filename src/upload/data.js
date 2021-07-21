@@ -855,6 +855,17 @@ const data = [
       "https://twitter.com/muthuannamalai_",
     ],
   },
+  {
+    name: "Srikanth Kothakonda",
+    role: "Database Engineer",
+    image: "https://github.com/Srikanth5039",
+    skills: ['js', 'SQL', 'java'],
+    link: [
+      "https://github.com/Srikanth5039",
+      "https://linkedin.com/in/srikanth-kothakonda-389466129",
+      "https://twitter.com/@Srikant43210761",
+    ],
+  }
 ];
 
 export default data;
